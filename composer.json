@@ -1,0 +1,15 @@
+{
+    "name": "shichengyu521/workflow",
+    "description": "workflow demo",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "scy1030503929",
+            "email": "1030503929@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "raoul2000/yii2-workflow": "*"
+    }
+}
